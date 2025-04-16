@@ -187,6 +187,3 @@ screenBuffer.pushSprite(0, 0);  // 一次性将缓冲区内容推送到屏幕
 - [TFT_eSPI库文档](https://github.com/Bodmer/TFT_eSPI)
 - [LIS3DHTR库文档](https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR)
 
-## 10. 总结
-
-本项目展示了如何利用Wio Terminal的显示屏、按钮和加速度计开发一个简单而有趣的弹球游戏。通过合理的代码结构和优化技巧，实现了流畅的游戏体验。该项目可作为Wio Terminal游戏开发的入门示例，也可以作为更复杂游戏的基础进行扩展。
