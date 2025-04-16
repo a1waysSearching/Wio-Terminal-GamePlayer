@@ -233,7 +233,6 @@ if (gameState.ballY + ballRadius > paddleY &&
 
 2. **教程与示例**
    - [Seeed Studio Arduino教程](https://wiki.seeedstudio.com/Wio-Terminal-LCD-Overview/)
-   - [Wio Terminal游戏开发示例](https://wiki.seeedstudio.com/Wio-Terminal-Game/)
 
 3. **社区资源**
    - [Seeed Studio论坛](https://forum.seeedstudio.com/)
