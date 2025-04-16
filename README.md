@@ -243,4 +243,3 @@ if (gameState.ballY + ballRadius > paddleY &&
    - [游戏物理基础](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
    - [Arduino游戏编程技巧](https://create.arduino.cc/projecthub/projects/tags/game)
 
-通过本项目，您不仅可以学习Wio Terminal的基本使用，还能掌握游戏开发的核心概念，包括物理模拟、碰撞检测、输入处理和图形渲染等。这些技能可以应用于更复杂的嵌入式系统项目开发中。
