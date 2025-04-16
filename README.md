@@ -1,9 +1,10 @@
 ## 项目概述和目标
 
+![image](https://files.seeedstudio.com/wiki/Wio-Terminal/img/Wio-Terminal-Wiki.jpg)
+
 本项目基于Seeed Studio的Wio Terminal开发了一个交互式弹球游戏。通过这个项目，我们将展示如何利用Wio Terminal的LCD显示屏、按钮和加速度计传感器创建一个简单而有趣的游戏应用。
 
-![image](https://lh5.googleusercontent.com/jIDQxk-noD3Eq5ma_RGdp1ghrztXby-UyzxWWCOj7s4aAlHFRjmhW3ZuwtYAYY0V-8oOCMoPysYc5wdbtYsyND4O6xoXhPEbOQfai2cmpmGgFQCEkT8vPv4nno9AtXIEV8jqPira)
-
+![image](https://files.seeedstudio.com/wiki/Wio-Terminal/img/Wio-Terminal-Hardware-Overview.png)
 
 **项目目标：**
 - 开发一个功能完整的弹球游戏
@@ -12,6 +13,8 @@
 - 提供一个可扩展的游戏开发框架
 
 ## 材料清单与环境设置
+
+![image](https://media-cdn.seeedstudio.com/media/wysiwyg/wtpinout2.png)
 
 ### 硬件需求
 - Wio Terminal（[购买链接](https://www.seeedstudio.com/Wio-Terminal-p-4509.html)）
