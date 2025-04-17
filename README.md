@@ -66,6 +66,9 @@ Wio Terminal是一个集成设备，无需额外连接。只需通过USB-C线缆
 3. 上传完成后，游戏将自动运行
 
 ### 5. 测试与调试
+
+![image](https://github.com/a1waysSearching/Wio-Terminal-GamePlayer/blob/main/7-2920250417_092216.gif)
+
 1. 使用Serial监视器查看调试信息（如需要）
 2. 测试各种游戏功能和交互
 3. 根据需要调整参数和逻辑
