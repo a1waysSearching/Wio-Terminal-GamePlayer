@@ -68,6 +68,10 @@ Wio Terminal是一个集成设备，无需额外连接。只需通过USB-C线缆
 ### 5. 测试与调试
 
 ![image](https://github.com/a1waysSearching/Wio-Terminal-GamePlayer/blob/main/7-2920250417_092216.gif)
+使用IMU控制
+
+![image](https://github.com/a1waysSearching/Wio-Terminal-GamePlayer/blob/main/7-2920250417_092310.gif)
+使用按键控制
 
 1. 使用Serial监视器查看调试信息（如需要）
 2. 测试各种游戏功能和交互
@@ -205,6 +209,7 @@ if (gameState.ballY + ballRadius > paddleY &&
 
 2. **多人模式**
    - 添加第二个挡板在屏幕顶部
+   - 利用顶部三个按键控制第二个人的挡板
    - 实现双人对战模式
 
 3. **障碍物系统**
