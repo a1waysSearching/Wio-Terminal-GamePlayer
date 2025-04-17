@@ -68,9 +68,11 @@ Wio Terminal是一个集成设备，无需额外连接。只需通过USB-C线缆
 ### 5. 测试与调试
 
 ![image](https://github.com/a1waysSearching/Wio-Terminal-GamePlayer/blob/main/7-2920250417_092216.gif)
+
 使用IMU控制
 
 ![image](https://github.com/a1waysSearching/Wio-Terminal-GamePlayer/blob/main/7-2920250417_092310.gif)
+
 使用按键控制
 
 1. 使用Serial监视器查看调试信息（如需要）
