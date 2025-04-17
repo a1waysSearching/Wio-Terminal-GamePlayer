@@ -6,6 +6,9 @@
 
 ![image](https://files.seeedstudio.com/wiki/Wio-Terminal/img/Wio-Terminal-Hardware-Overview.png)
 
+Wio 终端是一款基于 SAMD51 的微控制器，配备Realtek RTL8720DN 芯片，支持无线连接，兼容 Arduino 和 MicroPython。目前，无线连接仅由 Arduino 支持。它运行频率为120MHz（最高可达 200MHz），配备4MB外部闪存和192KB内存。它支持蓝牙和 Wi-Fi，为物联网项目提供可靠的连接。Wio 终端本身配备2.4 英寸 LCD 屏幕、板载惯性测量单元 (LIS3DHTR)、麦克风、蜂鸣器、microSD 卡槽、光传感器和红外发射器 (IR 940nm)。此外，它还配备两个用于Grove 生态系统的多功能 Grove 端口，以及 40 个兼容 Raspberry Pi 的 GPIO 引脚，可用于连接更多扩展组件。
+
+
 **项目目标：**
 - 开发一个功能完整的弹球游戏
 - 实现多种输入控制方式（按键和加速度计）
